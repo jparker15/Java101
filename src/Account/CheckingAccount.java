@@ -1,4 +1,4 @@
-package com.careerdevs;
+package Account;
 
 public class CheckingAccount extends BankAccount {
 
